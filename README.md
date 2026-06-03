@@ -1,3 +1,9 @@
+<img width="1161" height="592" alt="تنزيل (1)" src="https://github.com/user-attachments/assets/702232c5-0b57-466b-af24-ab9cbe48f1a3" />
+
+
+https://github.com/user-attachments/assets/265ca425-e3a0-43fc-8e74-89c2c70b375a
+
+<img width="1200" height="600" alt="buoyancy_engine" src="https://github.com/user-attachments/assets/bf49c48d-b45a-4b47-840e-9b651261a14c" />
 # 🚀 3-Bottle Buoyancy Engine Simulation
 
 An advanced dynamic simulation and physics playground built in Python. This project models a mechanical engine driven by buoyancy forces acting on three rotating bottles partially submerged in water. The bottles are mounted on a three-way crankshaft configuration, offset by 120 degrees from each other, demonstrating how buoyant potential energy converts into continuous rotational kinetic energy.
